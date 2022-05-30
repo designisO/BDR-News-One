@@ -1,0 +1,11 @@
+{
+  "name": "mdb-dio",
+  "version": "1.0.0",
+  "description": "Simple email template created using MDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orion Ford",
+  "license": "ISC"
+}
